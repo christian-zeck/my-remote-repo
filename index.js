@@ -11,5 +11,5 @@ function function2() {
 }
 
 function function3() {
-    let x = 5
+    let x = 10
 }
