@@ -11,6 +11,6 @@ function function2() {
 }
 
 function function3() {
-    let x = 3
+    let x = 4
     x++
 }
