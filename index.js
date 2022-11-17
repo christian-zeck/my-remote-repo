@@ -5,3 +5,6 @@ function function1() {
 function function2() {
     console.log('test')
 }
+
+function function3() {
+}
