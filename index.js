@@ -1,5 +1,7 @@
 function function1() {
     console.log('test')
+    let i = 1
+    i++
 }
 
 function function2() {
