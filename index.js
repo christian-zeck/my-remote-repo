@@ -3,6 +3,7 @@ function function1() {
     let i = 1
     i++
     console.log("i = " + i)
+    i = 2
 }
 
 function function2() {
