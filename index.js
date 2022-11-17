@@ -11,10 +11,5 @@ function function2() {
 }
 
 function function3() {
-<<<<<<< HEAD
-    let x = 6
-=======
     let x = 5
->>>>>>> da69cb45362f7bf63b473c038a815916d60843f0
-    x++
 }
