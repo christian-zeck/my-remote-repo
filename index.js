@@ -17,4 +17,9 @@ function function3() {
 
 function function4() {
     console.log('done')
+    console.log('another message')
+}
+
+function function7() {
+    
 }
