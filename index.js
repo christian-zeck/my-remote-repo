@@ -23,3 +23,7 @@ function function4() {
 function function7() {
     
 }
+
+function newForm() {
+    console.log('new form works');
+}
