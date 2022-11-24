@@ -23,3 +23,7 @@ function function4() {
 function function7() {
     
 }
+
+function newButton() {
+    console.log('new button works!')
+}
