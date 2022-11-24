@@ -27,3 +27,7 @@ function function7() {
 function newButton() {
     console.log('new button works!')
 }
+
+function newForm() {
+    console.log('new form works');
+}
