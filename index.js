@@ -31,3 +31,7 @@ function newButton() {
 function newForm() {
     console.log('new form works');
 }
+
+function newButton2() {
+    
+}
