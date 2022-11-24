@@ -25,5 +25,5 @@ function function7() {
 }
 
 function newButton() {
-    console.log('new button works')
+    console.log('new button works!')
 }
